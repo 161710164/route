@@ -1,0 +1,1 @@
+use Illuminate\LaratrustFacades as Laratrust;
